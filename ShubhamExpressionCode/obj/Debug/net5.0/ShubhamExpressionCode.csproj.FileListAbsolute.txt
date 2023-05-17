@@ -1,0 +1,15 @@
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.exe
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.deps.json
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.runtimeconfig.json
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.runtimeconfig.dev.json
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.dll
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ref\ShubhamExpressionCode.dll
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\bin\Debug\net5.0\ShubhamExpressionCode.pdb
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.AssemblyInfoInputs.cache
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.AssemblyInfo.cs
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.csproj.CoreCompileInputs.cache
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.dll
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ref\ShubhamExpressionCode.dll
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.pdb
+E:\ShubhamExpressionsCode\ShubhamExpressionCode\obj\Debug\net5.0\ShubhamExpressionCode.genruntimeconfig.cache

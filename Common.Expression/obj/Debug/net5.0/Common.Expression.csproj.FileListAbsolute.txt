@@ -1,0 +1,12 @@
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.AssemblyInfoInputs.cache
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.AssemblyInfo.cs
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.csproj.CoreCompileInputs.cache
+E:\ShubhamExpressionsCode\Common.Expression\bin\Debug\net5.0\Common.Expression.deps.json
+E:\ShubhamExpressionsCode\Common.Expression\bin\Debug\net5.0\Common.Expression.dll
+E:\ShubhamExpressionsCode\Common.Expression\bin\Debug\net5.0\ref\Common.Expression.dll
+E:\ShubhamExpressionsCode\Common.Expression\bin\Debug\net5.0\Common.Expression.pdb
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.dll
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\ref\Common.Expression.dll
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.pdb
+E:\ShubhamExpressionsCode\Common.Expression\obj\Debug\net5.0\Common.Expression.csprojAssemblyReference.cache

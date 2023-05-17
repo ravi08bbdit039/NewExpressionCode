@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/S8UcGV49NQQTkmEu2tUVopjO56v7sbL/f4t0NKKKvSdjABqB/YWNrZ05PDYOWP98IAOz7kzA3lkOdc8ENLjRg==",
+  "success": true,
+  "projectFilePath": "E:\\ShubhamExpressionsCode\\Common.Expression\\Common.Expression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravib\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
